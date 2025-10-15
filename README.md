@@ -62,6 +62,7 @@ Program: Z_DOWNLOAD_REPORT_WITH_INCLUDES
 
 The ZIP file will contain separate `.txt` files for each program component:
 
+```
 Z_MY_REPORT_includes.zip
 ├── Z_MY_REPORT.txt          (Main program)
 ├── Z_MY_REPORT_TOP.txt      (Global declarations)
@@ -69,6 +70,7 @@ Z_MY_REPORT_includes.zip
 ├── Z_MY_REPORT_F01.txt      (Form routines)
 ├── Z_MY_REPORT_C01.txt      (Local classes)
 └── [any other includes]
+```
 
 
 ## How It Works
